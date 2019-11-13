@@ -6,5 +6,6 @@ sudo apt-get install vim
 
 mv ~/.vimrc ~/.vimrc.back
 cp vimrc ~/.vimrc
+source ~/.vimrc
 
 
